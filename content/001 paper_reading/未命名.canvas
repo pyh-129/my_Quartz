@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"ac1042ea15dc1dad","type":"group","x":-280,"y":-320,"width":265,"height":415,"label":"未命名组"},
+		{"id":"26efcc25efa7b69b","type":"text","text":"## 1.sidhj\n+ ","x":-720,"y":-240,"width":320,"height":240},
+		{"id":"80ea5309ed569697","type":"text","text":"","x":-260,"y":-55,"width":225,"height":130},
+		{"id":"4fa39a5b11a8157a","type":"text","text":"","x":-260,"y":-275,"width":225,"height":130}
+	],
+	"edges":[
+		{"id":"32a5f5ce5a473565","fromNode":"26efcc25efa7b69b","fromSide":"right","toNode":"4fa39a5b11a8157a","toSide":"left"},
+		{"id":"5a1d641bf43eba57","fromNode":"26efcc25efa7b69b","fromSide":"right","toNode":"80ea5309ed569697","toSide":"left"}
+	]
+}

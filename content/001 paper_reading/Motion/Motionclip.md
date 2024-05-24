@@ -1,0 +1,2 @@
+for humanmac:
+> the image encoder of CLIP is a strong supervision of static image content understanding, which is quite different from dynamic motion. This supervision will cause the generated motion to be over-smoothing, even stillness

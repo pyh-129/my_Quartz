@@ -1,0 +1,2 @@
+>from "Learning and Leveraging World Models in Visual Representation Learning"
+>World models are commonly learned by training a network to predict the consequence of an action, either in input space (Yang et al., 2023), or in latent space (Hu et al., 2023; Hafner et al., 2023)
